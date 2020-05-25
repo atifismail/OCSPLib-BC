@@ -1,0 +1,30 @@
+2020-05-20 15:52:22,607 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,633 INFO c.d.o.OcspExtTest [main] Testing CrlEntryReasonCodeExt
+2020-05-20 15:52:22,751 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,751 INFO c.d.o.OcspExtTest [main] Testing CrlEntryInvalidityDateExt
+2020-05-20 15:52:22,775 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,776 INFO c.d.o.OcspExtTest [main] Testing CrlEntryCertIssuers extension
+2020-05-20 15:52:22,834 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,835 INFO c.d.o.OcspExtTest [main] Testing ArchiveCutoffExt extension
+2020-05-20 15:52:22,848 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,848 INFO c.d.o.OcspExtTest [main] Testing CrlReferenceExt
+2020-05-20 15:52:22,865 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,865 INFO c.d.o.OcspExtTest [main] Testing ExtendedRevokedDefExt
+2020-05-20 15:52:22,875 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,876 INFO c.d.o.OcspExtTest [main] Testing ServiceLocatorExt
+2020-05-20 15:52:22,888 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,888 INFO c.d.o.OcspExtTest [main] Testing PreferredSigAlgoExt
+2020-05-20 15:52:22,997 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:22,998 INFO c.d.o.OcspExtTest [main] Testing AcceptableRespTypeExt extension
+2020-05-20 15:52:23,006 INFO c.d.o.OcspExtTest [main] Actual extension value: 1.3.6.1.5.5.7.48.1.1
+2020-05-20 15:52:23,007 INFO c.d.o.OcspExtTest [main] ================================================================================
+2020-05-20 15:52:23,007 INFO c.d.o.OcspExtTest [main] Testing NonceExt
+2020-05-20 15:52:23,023 INFO c.d.o.OcspLibTest [main] ================================================================================
+2020-05-20 15:52:23,045 INFO c.d.o.OcspLibTest [main] Creating root and ocsp certificate and keys
+2020-05-20 15:52:24,010 INFO c.d.o.OcspLibTest [main] Issuing root certificate (temp/root.der)
+2020-05-20 15:52:24,017 INFO c.d.o.OcspLibTest [main] Issuing ocsp certificate (temp/ocsp.der)
+2020-05-20 15:52:24,052 INFO c.d.o.OcspLibTest [main] Issuing requester certificate (temp/req.der)
+2020-05-20 15:52:24,279 INFO c.d.o.OcspLibTest [main] ================================================================================
+2020-05-20 15:52:24,282 INFO c.d.o.OcspLibTest [main] Test - assert certs and keys exist
+2020-05-20 15:52:24,333 INFO c.d.o.OcspLibTest [main] ================================================================================
+2020-05-20 15:52:24,334 INFO c.d.o.OcspLibTest [main] Deleting root and ocsp certificate and keys
